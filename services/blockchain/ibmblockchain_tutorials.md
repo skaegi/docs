@@ -20,9 +20,9 @@ The following samples demonstrate how applications and chaincode function on a t
 
 To experience chaincode applications in action, you can immediately deploy the Marbles, Commercial Paper or Car Lease demo below (click a Deploy to Bluemix button). Or continue reading to explore the Hello Chaincode tutorial.
 
-- [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibm-blockchain/marbles.git)  **Marbles**
-- [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Blockchain/cp-web.git)  **Commercial Paper**
-- [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Blockchain/car-lease-demo.git)  **Car Lease**  
+- [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibm-blockchain/marbles&branch=v3.0)  **Marbles**
+- [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Blockchain/cp-web&branch=v3.0)  **Commercial Paper**
+- [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Blockchain/car-lease-demo&branch=v3.0)  **Car Lease**  
 
 <br>
 ## Learn chaincode tutorial
